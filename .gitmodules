@@ -1,0 +1,6 @@
+[submodule "adaslove"]
+	path = adaslove
+	url = git@github.com:Adathelove/adaslove.git
+[submodule "NeptunesCloud"]
+	path = NeptunesCloud
+	url = git@github.com:Adathelove/NeptunesCloud.git
